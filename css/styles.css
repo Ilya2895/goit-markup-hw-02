@@ -104,9 +104,7 @@ address {
   font-weight: 500;
   line-height: 1.5; /* 150% */
   letter-spacing: 0.04em;
-  border-radius: 4px;
   background: var(--iris, #4d5ae5);
-  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
   cursor: pointer;
 }
 .hero-btn:hover {
@@ -170,7 +168,7 @@ address {
   text-align: center;
   letter-spacing: 0.02em;
   text-transform: capitalize;
-  color: #2e2f42;
+  color: var(--navyblue, #2e2f42);
 }
 
 .team-item {
@@ -183,7 +181,7 @@ address {
   line-height: 1.2;
   text-align: center;
   letter-spacing: 0.02em;
-  color: #2e2f42;
+  color: var(--navyblue, #2e2f42);
 }
 .team-caption {
   font-weight: 400;
@@ -191,7 +189,7 @@ address {
   line-height: 1.5;
   text-align: center;
   letter-spacing: 0.02em;
-  color: #434455;
+  color: var(--slate, #434455);
 }
 
 /**----------------------------FOOTER---------------------------*/
@@ -225,7 +223,7 @@ address {
 /**----------------------------PORTFOLIO---------------------------*/
 
 .portfolio-btn {
-  color: #4d5ae5;
+  color: var(--iris, #4d5ae5);
   background-color: #f4f4fd;
   font-family: "Roboto", sans-serif;
   font-size: 16px;
