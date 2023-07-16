@@ -210,7 +210,7 @@ address {
 }
 
 .footer-link-studio {
-  color: #f4f4fd;
+  color: var(--cloud, #f4f4fd);
 }
 
 .footer-caption {
