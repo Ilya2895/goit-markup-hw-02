@@ -29,7 +29,7 @@ body {
 /**----------------------------HEADER---------------------------*/
 
 .header-logo-studio {
-  color: var(--iris, #4d5ae5);
+  color: #4d5ae5;
   font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-weight: 800;
@@ -50,7 +50,7 @@ body {
 }
 
 .header-menu-link {
-  color: var(--navyblue, #2e2f42);
+  color: #2e2f42;
   font-size: 16px;
   font-weight: 500;
   line-height: 1.5; /* 150% */
@@ -197,7 +197,7 @@ address {
   background: #2e2f42;
 }
 
-.footer-link {
+.fotter-link {
   color: var(--iris, #4d5ae5);
   font-family: "Raleway", sans-serif;
   font-size: 18px;
@@ -207,11 +207,11 @@ address {
   text-transform: uppercase;
 }
 
-.footer-link-web {
+.fotter-link-web {
   color: var(--cloud, #f4f4fd);
 }
 
-.footer-caption {
+.fotter-caption {
   color: var(--cloud, #f4f4fd);
   font-size: 16px;
   font-style: normal;
