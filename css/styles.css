@@ -1,7 +1,6 @@
 :root {
-  --iris: #4d5ae5;
   --ocean: #404bbf;
-  --navy-blue: #2e2f42;
+
   --green: #31d0aa;
   --slate: #434455;
   --light-slate: #8e8f99;
@@ -208,7 +207,7 @@ address {
 }
 
 .fotter-link-web {
-  color: var(--cloud, #f4f4fd);
+  color: #f4f4fd;
 }
 
 .fotter-caption {
